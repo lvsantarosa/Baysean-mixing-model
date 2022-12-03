@@ -1,4 +1,4 @@
-# Baysean-mixing-model-
+# Baysean-mixing-model
 
 The method was produced to analyze N and C isotopes. In this example I used water-stable isotopes (H and O) and deuterium excess (d-excess), another tracer can be tested.
 Is recommended to work only with O and H or d-excess. See my publications to appreciate some examples.
