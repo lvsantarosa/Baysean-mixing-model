@@ -71,3 +71,5 @@ plot(simmr_out, type = c("density", "matrix"), grp = 6, title = "simmr output gr
 compare_groups(simmr_out, source = "Groundwater", groups = 1:110)
 compare_groups(simmr_out, source = "Rainfall", groups = 1:110)
 compare_groups(simmr_out, source = "Rainfall", groups = c(4:5, 7, 2))
+
+               
