@@ -11,10 +11,10 @@ To determine the proportions of water from a source, the model requires three se
 
 
 
-<div class="csl-entry">Santarosa, L. V., Gastmans, D., Sánchez-Murillo, R., Santos, V. dos, Batista, L. V., &#38; Betancur, S. B. (2021). Stable isotopes reveal groundwater to river connectivity in a mesoscale subtropical watershed. <i>Isotopes in Environmental and Health Studies</i>, <i>57</i>(3), 236–253. https://doi.org/10.1080/10256016.2021.1877701</div>
+Santarosa, L. V., Gastmans, D., Sánchez-Murillo, R., Santos, V. dos, Batista, L. V., &#38; Betancur, S. B. (2021). Stable isotopes reveal groundwater to river connectivity in a mesoscale subtropical watershed. <i>Isotopes in Environmental and Health Studies</i>, <i>57</i>(3), 236–253. https://doi.org/10.1080/10256016.2021.1877701
 
 
-<div class="csl-entry">Gomes Lanças, V., Vituri Santarosa, L., Nogueira Garpelli, L., de Simone Borma, L., Stager Quaggio, C., Teixeira de Souza Martins, V., Gastmans, D., Lanças, V. G., Garpelli, L. N., Santarosa, L. v, Maciel, A. S., Esq Luis Morquio, N., de Simone Borma, L., &#38; de Souza Martins, V. T. (2022). <i>Assessment of the changes in contributions from water sources to streamflow induced by urbanization in a small-sized catchment in Southeastern Brazil using the dual stable isotopes of water ( 18 O and 2 H)</i>. <i>194</i>, 357. https://doi.org/10.1007/s10661-022-10040-9</div>
+Gomes Lanças, V., Vituri Santarosa, L., Nogueira Garpelli, L., de Simone Borma, L., Stager Quaggio, C., Teixeira de Souza Martins, V., Gastmans, D., Lanças, V. G., Garpelli, L. N., Santarosa, L. v, Maciel, A. S., Esq Luis Morquio, N., de Simone Borma, L., &#38; de Souza Martins, V. T. (2022). <i>Assessment of the changes in contributions from water sources to streamflow induced by urbanization in a small-sized catchment in Southeastern Brazil using the dual stable isotopes of water ( 18 O and 2 H)</i>. <i>194</i>, 357. https://doi.org/10.1007/s10661-022-10040-9
 
 
-<div class="csl-entry">Santarosa, L. V., Gastmans, D., &#38; Quaggio, C. S. (2022). Stable isotope modeling of the groundwater discharge in complex watersheds of the state of São Paulo, Brazil. <i>Journal of South American Earth Sciences</i>, <i>120</i>, 104063. https://doi.org/10.1016/J.JSAMES.2022.104063</div>
+Santarosa, L. V., Gastmans, D., &#38; Quaggio, C. S. (2022). Stable isotope modeling of the groundwater discharge in complex watersheds of the state of São Paulo, Brazil. <i>Journal of South American Earth Sciences</i>, <i>120</i>, 104063. https://doi.org/10.1016/J.JSAMES.2022.104063
