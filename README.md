@@ -10,7 +10,8 @@ The Bayesian mixing model was used to identify the proportional contributions of
 To determine the proportions of water from a source, the model requires three sets of input data as a minimum. The proportion of each source's contribution to the river streamflow mixture was subsequently determined using a Markov Chain Monte Carlo function (MCMC) (Parnell, 2019; Parnell et al., 2010). In the Bayesian context, the MCMC repeatedly assess the values of the water proportion and finds those values that best fit the data representing different sources. The simulations produce plausible contributions of groundwater and rainfall (in terms of proportion) for the river streamflow and return a posterior distribution representing a true probability density of data (Brum et al., 2019; Parnell et al., 2013).
 
 
-##References
+## References
+
 Santarosa, L. V., Gastmans, D., Sánchez-Murillo, R., Santos, V. dos, Batista, L. V., &#38; Betancur, S. B. (2021). Stable isotopes reveal groundwater to river connectivity in a mesoscale subtropical watershed. <i>Isotopes in Environmental and Health Studies</i>, <i>57</i>(3), 236–253. https://doi.org/10.1080/10256016.2021.1877701
 
 
