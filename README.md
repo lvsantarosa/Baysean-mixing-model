@@ -3,9 +3,6 @@
 The method was produced to analyze N and C isotopes. In this example I used water-stable isotopes (H and O) and deuterium excess (d-excess), another tracer can be tested.
 Is recommended to work only with O and H or d-excess. See my publications to appreciate some examples.
 
-![image](https://user-images.githubusercontent.com/60663771/205453619-4e4003fc-df9b-424d-8bc8-3f32877227da.png)
-
-
 ## Mixing model
 The Bayesian mixing model was used to identify the proportional contributions of various sources to surface water flow. The stable isotope mixing model (simmr) package in R (R CoreTeam, 2019) was developed to solve mixing equations for stable isotope data using a Bayesian statistical framework (Parnell, 2019; Parnell et al., 2013, 2010). This model allows identify the proportional contribution and accounts for uncertainties and the isotope data from multiple sources (Gokool et al., 2018; Ma and Song, 2016). In origin, the Bayesian mixing models were applied to identify the signatures of stable isotopes to find the main water sources consumed by vegetation (Evaristo and McDonnell, 2017; Gokool et al., 2018; Ma and Song, 2016; Rothfuss and Javaux, 2017; Zhang et al., 2013).
 
@@ -21,3 +18,6 @@ Gomes Lanças, V., Vituri Santarosa, L., Nogueira Garpelli, L., de Simone Borma,
 
 
 Santarosa, L. V., Gastmans, D., &#38; Quaggio, C. S. (2022). Stable isotope modeling of the groundwater discharge in complex watersheds of the state of São Paulo, Brazil. <i>Journal of South American Earth Sciences</i>, <i>120</i>, 104063. https://doi.org/10.1016/J.JSAMES.2022.104063
+
+![image](https://user-images.githubusercontent.com/60663771/205453787-4316bce4-7d54-4870-bbb2-9b9343e3bfd8.png)
+
