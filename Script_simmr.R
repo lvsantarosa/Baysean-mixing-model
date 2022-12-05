@@ -18,7 +18,7 @@ Exemple <- read_excel("Exemple.xlsx")
 ## See my publications to appreciate some examples
 ## The simmr package present other modes of analysis in the examples
 
-## Select the tracers/isotopes dataset to do the simulation
+## Select the tracers/isotopes dataset to do the simulation and change the nrow and ncol numbers
 mix = matrix(c(Exemple$O, Exemple$H, Exemple$D), nrow = 110, ncol = 3)
 
 ## This column can represent multi-site sampling, experiments, or time periods.
@@ -31,7 +31,7 @@ colnames(mix) = Exemple$col_names[1:3]
 ## Input the endmembers of sources to find the proportion in the dataset
 s_names = Exemple$s_names[1:2]
 
-## Input the means and standard deviation of the endmembers of sources 
+## Enter the means and standard deviations of the endmember sources  
 s_means = matrix(c(Exemple$O_s_means[1:2], Exemple$H_s_means[1:2], Exemple$D_s_means[1:2]), nrow = 2, ncol = 3)
 s_sds = matrix(c(Exemple$O_s_sds[1:2], Exemple$H_s_sds[1:2], Exemple$D_s_sds[1:2]), nrow = 2, ncol = 3)
 
@@ -58,7 +58,7 @@ simmr_out <- simmr_mcmc(simmr_in)
 # Print output
 simmr_out
 
-# Summarise output, you can chage the groups to present the metrics 
+# The metrics can be presented in groups to summarize output 
 summary(simmr_out, type = "quantiles", group = 1)
 summary(simmr_out, type = "quantiles", group = c(1:110))
 summary(simmr_out, type = c("quantiles", "statistics"), group = c(1, 3))
@@ -67,9 +67,7 @@ summary(simmr_out, type = c("quantiles", "statistics"), group = c(1, 3))
 plot(simmr_out, type = "boxplot", group = 5, title = "simmr output group 2")
 plot(simmr_out, type = c("density", "matrix"), grp = 6, title = "simmr output group 6")
 
-# Compare groups
+# Compare groups or temporal behavior 
 compare_groups(simmr_out, source = "Groundwater", groups = 1:110)
 compare_groups(simmr_out, source = "Rainfall", groups = 1:110)
-compare_groups(simmr_out, source = "Rainfall", groups = c(4:5, 7, 2))
-
-               
+compare_groups(simmr_out, source = "Rainfall", groups = c(4:5, 7, 2))        
