@@ -8,7 +8,7 @@ library(rstanarm)
 library(readxl)
 
 
-## This spreadsheet is to input data set mode easily
+## This spreadsheet is to input data set
 
 Exemple <- read_excel("Exemple.xlsx")
 
