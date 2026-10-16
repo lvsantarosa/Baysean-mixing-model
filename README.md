@@ -163,6 +163,13 @@ Notes:
   *Journal of South American Earth Sciences*, 120, 104063.
   https://doi.org/10.1016/J.JSAMES.2022.104063
 
+- Bastos, A. S., Gastmans, D., Pires de Freitas, E., Pimentel de Brito, A., Nogueira de Almeida, C.,
+  Santarosa, L. V., da Silva, M. L., Martin, S. T., Ferreira, S. J. F., & Duvoisin Junior, S. (2025).
+  Isotope hydrogeology of precipitation runoff and groundwater discharge as source waters for stream flow
+  in the central Amazon.
+  *Journal of Hydrology: Regional Studies*, 62, 102934.
+  https://doi.org/10.1016/j.ejrh.2025.102934
+
 ---
 
 ## References
